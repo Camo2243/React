@@ -55,4 +55,4 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 ## Autores ✒️
 
 
-* **Camilo Zuluaga** - *Programador* - 
+* **Camilo Salazar** - *Programador* - 
